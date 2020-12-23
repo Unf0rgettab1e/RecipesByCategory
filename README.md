@@ -1,0 +1,3 @@
+# RecipesByCategory
+
+This app gets food from the REST API and displays it in the app using the RecyclerView. The main tap contains categories of recipes, each of which is a fragment. When you click on these fragments, we go to the page of recipes related to the given category. Each category has its own description. The user can select one of the recipes to provide additional information, including a description of the product, the ingredients required for its preparation, and instructions for preparation. In addition to this, the recipe contains a link to a video instruction from youtube, as well as a link to the original source on the Internet for more details on the recipe.
